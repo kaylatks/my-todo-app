@@ -1,0 +1,4 @@
+data preparation
+clean data
+transform data
+loading data
